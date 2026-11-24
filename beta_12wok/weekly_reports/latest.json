@@ -1,0 +1,611 @@
+{
+  "status": "COMPLETE",
+  "date": "2026-11-23",
+  "weekly_label": "2026-11-23 – 2026-11-23",
+  "regional": {
+    "png": "weekly_reports/2026-11-23/INARA_WEEKLY_REGIONAL_V8_4_4.png",
+    "insight": {
+      "name": "BALINUSRA",
+      "level": "REGION",
+      "branch": null,
+      "sections": [
+        {
+          "title": "Performance Overview",
+          "text": "IO 346 (+4,2 % WoW) | MoM +3,1 %; RE 328 (+3,5 % WoW) | MoM +3,7 %; PS 242 (+9,0 % WoW) | MoM +3,4 %."
+        },
+        {
+          "title": "Top Performance",
+          "text": "Top WOK berdasarkan gap absolut WoW. RE: BALI TIMUR +11 (+64,7 %), ENDE SIKKA +3 (+17,6 %) | PS: BALI BARAT +14 (+73,7 %), SUMBAWA BARAT +9 (+150,0 %)"
+        },
+        {
+          "title": "Bottom Performance",
+          "text": "Bottom WOK berdasarkan gap absolut WoW. RE: BALI TENGAH -7 (-10,9 %), LOMBOK -4 (-9,8 %) | PS: MANGGARAI -8 (-42,1 %), ENDE SIKKA -5 (-31,2 %)"
+        },
+        {
+          "title": "Conversion",
+          "text": "PS to RE 73,8% (+3,8 pp WoW); IO to RE 94,8% (-0,7 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+        },
+        {
+          "title": "SF & Channel Driver",
+          "text": "Active RE 181 (+11,0 % WoW); Active PS 152 (+15,2 % WoW); DJP 124 (-83,7 % WoW); RE Agency 273 (+11,4 % WoW); RE GraPARI 26 (-36,6 % WoW); PS Agency 220 (+17,0 % WoW); PS GraPARI 6 (-62,5 % WoW)."
+        },
+        {
+          "title": "Action Focus",
+          "text": "Review RE BALI TENGAH, LOMBOK; Review PS MANGGARAI, ENDE SIKKA; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+        }
+      ]
+    }
+  },
+  "branches": {
+    "DENPASAR": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_BRANCH_DENPASAR.png",
+      "insight": {
+        "name": "DENPASAR",
+        "level": "BRANCH",
+        "branch": "DENPASAR",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 127 (+7,6 % WoW) | MoM +7,7 %; RE 117 (+3,5 % WoW) | MoM +8,3 %; PS 99 (+20,7 % WoW) | MoM +7,4 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top WOK berdasarkan gap absolut WoW. RE: BALI TIMUR +11 (+64,7 %), BALI BARAT -2 (-6,2 %) | PS: BALI BARAT +14 (+73,7 %), BALI TIMUR +6 (+75,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom WOK berdasarkan gap absolut WoW. RE: BALI TENGAH -7 (-10,9 %) | PS: BALI TENGAH -3 (-5,5 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 84,6% (+12,0 pp WoW); IO to RE 92,1% (-3,7 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 55 (+12,2 % WoW); Active PS 54 (+28,6 % WoW); DJP 39 (-73,5 % WoW); RE Agency 97 (+6,6 % WoW); RE GraPARI 5 (-16,7 % WoW); PS Agency 88 (+25,7 % WoW); PS GraPARI 1 (-66,7 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE BALI TENGAH; Review PS BALI TENGAH; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      },
+      "woks": [
+        "BALI BARAT",
+        "BALI TENGAH",
+        "BALI TIMUR"
+      ],
+      "zip": "weekly_reports/2026-11-23/WEEKLY_DENPASAR_2026-11-23.zip"
+    },
+    "FLORES": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_BRANCH_FLORES.png",
+      "insight": {
+        "name": "FLORES",
+        "level": "BRANCH",
+        "branch": "FLORES",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 65 (+12,1 % WoW) | MoM +7,3 %; RE 61 (+5,2 % WoW) | MoM +7,4 %; PS 31 (-29,5 % WoW) | MoM +3,2 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top WOK berdasarkan gap absolut WoW. RE: ENDE SIKKA +3 (+17,6 %), MANGGARAI +0 (+0,0 %) | PS: FLORES TIMUR +0 (+0,0 %), ENDE SIKKA -5 (-31,2 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom WOK berdasarkan gap absolut WoW. RE: FLORES TIMUR -2 (-11,8 %) | PS: MANGGARAI -8 (-42,1 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 50,8% (-25,1 pp WoW); IO to RE 93,8% (-6,2 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 31 (+24,0 % WoW); Active PS 19 (-26,9 % WoW); DJP 10 (-88,1 % WoW); RE Agency 48 (+37,1 % WoW); RE GraPARI 7 (-65,0 % WoW); PS Agency 27 (-22,9 % WoW); PS GraPARI 3 (-57,1 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE FLORES TIMUR; Review PS MANGGARAI; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      },
+      "woks": [
+        "ENDE SIKKA",
+        "FLORES TIMUR",
+        "MANGGARAI"
+      ],
+      "zip": "weekly_reports/2026-11-23/WEEKLY_FLORES_2026-11-23.zip"
+    },
+    "KUPANG": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_BRANCH_KUPANG.png",
+      "insight": {
+        "name": "KUPANG",
+        "level": "BRANCH",
+        "branch": "KUPANG",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 64 (+6,7 % WoW) | MoM +3,1 %; RE 61 (+5,2 % WoW) | MoM +3,4 %; PS 51 (+10,9 % WoW) | MoM +9,0 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top WOK berdasarkan gap absolut WoW. RE: SUMBA +3 (+30,0 %), KUPANG ROTE +1 (+4,0 %) | PS: SUMBA +8 (+80,0 %), MALAKA TIMTIM BELU -1 (-7,7 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom WOK berdasarkan gap absolut WoW. RE: MALAKA TIMTIM BELU -2 (-8,7 %) | PS: KUPANG ROTE -2 (-8,7 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 83,6% (+4,3 pp WoW); IO to RE 95,3% (-1,4 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 41 (+13,9 % WoW); Active PS 34 (+21,4 % WoW); DJP 36 (-85,3 % WoW); RE Agency 54 (+8,0 % WoW); RE GraPARI 4 (+33,3 % WoW); PS Agency 47 (+11,9 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE MALAKA TIMTIM BELU; Review PS KUPANG ROTE; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      },
+      "woks": [
+        "KUPANG ROTE",
+        "MALAKA TIMTIM BELU",
+        "SUMBA"
+      ],
+      "zip": "weekly_reports/2026-11-23/WEEKLY_KUPANG_2026-11-23.zip"
+    },
+    "MATARAM": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_BRANCH_MATARAM.png",
+      "insight": {
+        "name": "MATARAM",
+        "level": "BRANCH",
+        "branch": "MATARAM",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 90 (-6,2 % WoW) | MoM -4,8 %; RE 89 (+1,1 % WoW) | MoM -3,8 %; PS 61 (+22,0 % WoW) | MoM -4,8 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top WOK berdasarkan gap absolut WoW. RE: SUMBAWA TIMUR +1 (+3,4 %), SUMBAWA BARAT -1 (-5,6 %) | PS: SUMBAWA BARAT +9 (+150,0 %), SUMBAWA TIMUR +4 (+25,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom WOK berdasarkan gap absolut WoW. RE: LOMBOK -4 (-9,8 %) | PS: LOMBOK -2 (-7,1 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 68,5% (+11,7 pp WoW); IO to RE 98,9% (+7,2 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 54 (+1,9 % WoW); Active PS 45 (+25,0 % WoW); DJP 39 (-86,3 % WoW); RE Agency 74 (+7,2 % WoW); RE GraPARI 10 (-16,7 % WoW); PS Agency 58 (+41,5 % WoW); PS GraPARI 2 (-66,7 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE LOMBOK; Review PS LOMBOK; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      },
+      "woks": [
+        "LOMBOK",
+        "SUMBAWA BARAT",
+        "SUMBAWA TIMUR"
+      ],
+      "zip": "weekly_reports/2026-11-23/WEEKLY_MATARAM_2026-11-23.zip"
+    }
+  },
+  "woks": {
+    "BALI BARAT": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_BALI_BARAT.png",
+      "insight": {
+        "name": "BALI BARAT",
+        "level": "WOK",
+        "branch": "DENPASAR",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 30 (-6,2 % WoW) | MoM +5,8 %; RE 30 (-6,2 % WoW) | MoM +6,3 %; PS 33 (+73,7 % WoW) | MoM +11,6 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: JEMBRANA +3 (+300,0 %), TABANAN -2 (-14,3 %) | PS: BULELENG +6 (+46,2 %), TABANAN +5 (+100,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: BULELENG -3 (-18,8 %) | PS: JEMBRANA +4 (—)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 110,0% (+50,6 pp WoW); IO to RE 100,0% (+0,0 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 15 (+25,0 % WoW); Active PS 17 (+41,7 % WoW); DJP 7 (-82,5 % WoW); RE Agency 26 (+4,0 % WoW); RE GraPARI 2 (+100,0 % WoW); PS Agency 33 (+94,1 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE BULELENG; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "BALI TENGAH": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_BALI_TENGAH.png",
+      "insight": {
+        "name": "BALI TENGAH",
+        "level": "WOK",
+        "branch": "DENPASAR",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 64 (-4,5 % WoW) | MoM +4,4 %; RE 57 (-10,9 % WoW) | MoM +4,2 %; PS 52 (-5,5 % WoW) | MoM +2,6 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: BADUNG +5 (+17,9 %) | PS: BADUNG +4 (+16,7 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: KOTA DENPASAR -12 (-33,3 %) | PS: KOTA DENPASAR -7 (-22,6 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 91,2% (+5,3 pp WoW); IO to RE 89,1% (-6,4 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 26 (-3,7 % WoW); Active PS 26 (+8,3 % WoW); DJP 32 (-70,1 % WoW); RE Agency 47 (-9,6 % WoW); RE GraPARI 1 (-75,0 % WoW); PS Agency 43 (-6,5 % WoW); PS GraPARI 1 (-66,7 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE KOTA DENPASAR; Review PS KOTA DENPASAR; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "BALI TIMUR": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_BALI_TIMUR.png",
+      "insight": {
+        "name": "BALI TIMUR",
+        "level": "WOK",
+        "branch": "DENPASAR",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 30 (+57,9 % WoW) | MoM +20,8 %; RE 28 (+64,7 % WoW) | MoM +24,1 %; PS 14 (+75,0 % WoW) | MoM +18,6 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: GIANYAR +7 (+77,8 %), BANGLI +2 (+66,7 %) | PS: BANGLI +3 (—), KLUNGKUNG +2 (+100,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: KARANG ASEM -1 (-33,3 %), KLUNGKUNG -1 (-50,0 %) | PS: KARANG ASEM +0 (+0,0 %), GIANYAR +1 (+20,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 50,0% (+2,9 pp WoW); IO to RE 93,3% (+3,8 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 14 (+40,0 % WoW); Active PS 11 (+83,3 % WoW); DJP 0 (+0,0 % WoW); RE Agency 23 (+64,3 % WoW); RE GraPARI 2 (+100,0 % WoW); PS Agency 12 (+71,4 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE KARANG ASEM, KLUNGKUNG; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "ENDE SIKKA": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_ENDE_SIKKA.png",
+      "insight": {
+        "name": "ENDE SIKKA",
+        "level": "WOK",
+        "branch": "FLORES",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 21 (+23,5 % WoW) | MoM -14,2 %; RE 20 (+17,6 % WoW) | MoM -15,1 %; PS 11 (-31,2 % WoW) | MoM -19,3 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: SIKKA +3 (+37,5 %) | PS: SIKKA -1 (-16,7 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: ENDE +0 (+0,0 %) | PS: ENDE -4 (-40,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 55,0% (-39,1 pp WoW); IO to RE 95,2% (-4,8 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 10 (+0,0 % WoW); Active PS 8 (-20,0 % WoW); DJP 4 (-60,0 % WoW); RE Agency 16 (+14,3 % WoW); RE GraPARI 3 (+0,0 % WoW); PS Agency 11 (-8,3 % WoW); PS GraPARI 0 (-100,0 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review PS ENDE; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "FLORES TIMUR": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_FLORES_TIMUR.png",
+      "insight": {
+        "name": "FLORES TIMUR",
+        "level": "WOK",
+        "branch": "FLORES",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 16 (-5,9 % WoW) | MoM +59,3 %; RE 15 (-11,8 % WoW) | MoM +61,1 %; PS 9 (+0,0 % WoW) | MoM +67,8 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: FLORES TIMUR +3 (+100,0 %), LEMBATA +2 (+100,0 %) | PS: FLORES TIMUR +4 (—), LEMBATA -1 (-50,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: ALOR -7 (-58,3 %) | PS: ALOR -3 (-42,9 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 60,0% (+7,1 pp WoW); IO to RE 93,8% (-6,2 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 7 (+40,0 % WoW); Active PS 3 (+0,0 % WoW); DJP 4 (-93,1 % WoW); RE Agency 12 (+50,0 % WoW); RE GraPARI 2 (-75,0 % WoW); PS Agency 7 (+16,7 % WoW); PS GraPARI 2 (-33,3 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE ALOR; Review PS ALOR; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "MANGGARAI": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_MANGGARAI.png",
+      "insight": {
+        "name": "MANGGARAI",
+        "level": "WOK",
+        "branch": "FLORES",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 26 (+8,3 % WoW) | MoM +6,7 %; RE 24 (+0,0 % WoW) | MoM +8,4 %; PS 11 (-42,1 % WoW) | MoM +4,8 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: MANGGARAI BARAT +5 (+100,0 %), NAGEKEO +1 (—) | PS: NGADA +2 (+66,7 %), MANGGARAI TIMUR -1 (-50,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: NGADA -3 (-42,9 %), MANGGARAI TIMUR -2 (-66,7 %) | PS: MANGGARAI -4 (-50,0 %), MANGGARAI BARAT -4 (-80,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 45,8% (-33,4 pp WoW); IO to RE 92,3% (-7,7 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 13 (+30,0 % WoW); Active PS 8 (-38,5 % WoW); DJP 2 (-87,5 % WoW); RE Agency 19 (+46,2 % WoW); RE GraPARI 2 (-77,8 % WoW); PS Agency 9 (-47,1 % WoW); PS GraPARI 1 (+0,0 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE NGADA, MANGGARAI TIMUR; Review PS MANGGARAI, MANGGARAI BARAT; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "KUPANG ROTE": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_KUPANG_ROTE.png",
+      "insight": {
+        "name": "KUPANG ROTE",
+        "level": "WOK",
+        "branch": "KUPANG",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 26 (-3,7 % WoW) | MoM -1,5 %; RE 26 (+4,0 % WoW) | MoM -1,8 %; PS 21 (-8,7 % WoW) | MoM +5,7 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: KUPANG +2 (+100,0 %), ROTE NDAO +2 (—) | PS: KUPANG +0 (+0,0 %), ROTE NDAO +0 (+0,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: KOTA KUPANG -3 (-13,0 %) | PS: KOTA KUPANG -2 (-10,5 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 80,8% (-11,2 pp WoW); IO to RE 100,0% (+7,4 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 19 (+11,8 % WoW); Active PS 15 (-11,8 % WoW); DJP 10 (-84,1 % WoW); RE Agency 22 (+10,0 % WoW); RE GraPARI 2 (+100,0 % WoW); PS Agency 18 (-14,3 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE KOTA KUPANG; Review PS KOTA KUPANG; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "MALAKA TIMTIM BELU": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_MALAKA_TIMTIM_BELU.png",
+      "insight": {
+        "name": "MALAKA TIMTIM BELU",
+        "level": "WOK",
+        "branch": "KUPANG",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 21 (-8,7 % WoW) | MoM -3,0 %; RE 21 (-8,7 % WoW) | MoM -1,6 %; PS 12 (-7,7 % WoW) | MoM +6,0 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: BELU +4 (+50,0 %), TIMOR TENGAH UTARA -1 (-16,7 %) | PS: TIMOR TENGAH SELATAN +2 (+66,7 %), TIMOR TENGAH UTARA +2 (+200,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: TIMOR TENGAH SELATAN -3 (-50,0 %), MALAKA -2 (-66,7 %) | PS: BELU -4 (-57,1 %), MALAKA -1 (-50,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 57,1% (+0,6 pp WoW); IO to RE 100,0% (+0,0 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 15 (-6,2 % WoW); Active PS 10 (+11,1 % WoW); DJP 26 (-83,1 % WoW); RE Agency 19 (-5,0 % WoW); RE GraPARI 2 (+0,0 % WoW); PS Agency 12 (+0,0 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE TIMOR TENGAH SELATAN, MALAKA; Review PS BELU, MALAKA; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "SUMBA": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_SUMBA.png",
+      "insight": {
+        "name": "SUMBA",
+        "level": "WOK",
+        "branch": "KUPANG",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 16 (+60,0 % WoW) | MoM +22,0 %; RE 13 (+30,0 % WoW) | MoM +23,0 %; PS 18 (+80,0 % WoW) | MoM +21,2 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: SUMBA BARAT +3 (+150,0 %), SUMBA TIMUR +3 (+150,0 %) | PS: SUMBA TIMUR +4 (+100,0 %), SUMBA BARAT +3 (+75,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: SUMBA BARAT DAYA -4 (-80,0 %), SABU RAIJUA +0 (+0,0 %) | PS: SUMBA BARAT DAYA -1 (-50,0 %), SABU RAIJUA +0 (+0,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 138,5% (+38,5 pp WoW); IO to RE 81,2% (-18,8 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 6 (+100,0 % WoW); Active PS 9 (+350,0 % WoW); DJP 0 (-100,0 % WoW); RE Agency 12 (+20,0 % WoW); PS Agency 17 (+88,9 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE SUMBA BARAT DAYA; Review PS SUMBA BARAT DAYA; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "LOMBOK": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_LOMBOK.png",
+      "insight": {
+        "name": "LOMBOK",
+        "level": "WOK",
+        "branch": "MATARAM",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 37 (-21,3 % WoW) | MoM -8,4 %; RE 37 (-9,8 % WoW) | MoM -6,9 %; PS 26 (-7,1 % WoW) | MoM -4,9 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: LOMBOK TIMUR +1 (+14,3 %), KOTA MATARAM +0 (+0,0 %) | PS: KOTA MATARAM +1 (+10,0 %), LOMBOK TENGAH +0 (+0,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: LOMBOK TENGAH -3 (-42,9 %), LOMBOK BARAT -1 (-7,7 %) | PS: LOMBOK UTARA -2 (-40,0 %), LOMBOK BARAT -1 (-16,7 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 70,3% (+2,0 pp WoW); IO to RE 100,0% (+12,8 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 26 (-13,3 % WoW); Active PS 21 (+0,0 % WoW); DJP 20 (-88,5 % WoW); RE Agency 34 (-2,9 % WoW); RE GraPARI 2 (-33,3 % WoW); PS Agency 24 (-4,0 % WoW); PS GraPARI 1 (-50,0 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE LOMBOK TENGAH, LOMBOK BARAT; Review PS LOMBOK UTARA, LOMBOK BARAT; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "SUMBAWA BARAT": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_SUMBAWA_BARAT.png",
+      "insight": {
+        "name": "SUMBAWA BARAT",
+        "level": "WOK",
+        "branch": "MATARAM",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 17 (-5,6 % WoW) | MoM +9,7 %; RE 17 (-5,6 % WoW) | MoM +12,2 %; PS 15 (+150,0 % WoW) | MoM +8,5 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: SUMBAWA +2 (+15,4 %) | PS: SUMBAWA +9 (+225,0 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: SUMBAWA BARAT -3 (-60,0 %) | PS: SUMBAWA BARAT +0 (+0,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 88,2% (+54,9 pp WoW); IO to RE 100,0% (+0,0 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 9 (+0,0 % WoW); Active PS 9 (+80,0 % WoW); DJP 0 (+0,0 % WoW); RE Agency 15 (+15,4 % WoW); RE GraPARI 2 (+0,0 % WoW); PS Agency 15 (+200,0 % WoW); PS GraPARI 0 (-100,0 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE SUMBAWA BARAT; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    },
+    "SUMBAWA TIMUR": {
+      "png": "weekly_reports/2026-11-23/INARA_WEEKLY_WOK_SUMBAWA_TIMUR.png",
+      "insight": {
+        "name": "SUMBAWA TIMUR",
+        "level": "WOK",
+        "branch": "MATARAM",
+        "sections": [
+          {
+            "title": "Performance Overview",
+            "text": "IO 31 (+0,0 % WoW) | MoM -6,3 %; RE 30 (+3,4 % WoW) | MoM -7,1 %; PS 20 (+25,0 % WoW) | MoM -10,8 %."
+          },
+          {
+            "title": "Top Performance",
+            "text": "Top Kabupaten/Kota berdasarkan gap absolut WoW. RE: KOTA BIMA +4 (+44,4 %), BIMA +0 (+0,0 %) | PS: BIMA +5 (+100,0 %), KOTA BIMA +2 (+33,3 %)"
+          },
+          {
+            "title": "Bottom Performance",
+            "text": "Bottom Kabupaten/Kota berdasarkan gap absolut WoW. RE: DOMPU -3 (-33,3 %) | PS: DOMPU -3 (-60,0 %)"
+          },
+          {
+            "title": "Conversion",
+            "text": "PS to RE 66,7% (+11,5 pp WoW); IO to RE 96,8% (+3,3 pp WoW). Rasio adalah indikator agregat periode, bukan bukti penyebab keterlambatan instalasi."
+          },
+          {
+            "title": "SF & Channel Driver",
+            "text": "Active RE 17 (+21,4 % WoW); Active PS 15 (+50,0 % WoW); DJP 19 (-82,9 % WoW); RE Agency 21 (+0,0 % WoW); RE GraPARI 6 (-14,3 % WoW); PS Agency 19 (+72,7 % WoW); PS GraPARI 1 (-66,7 % WoW)."
+          },
+          {
+            "title": "Action Focus",
+            "text": "Review RE DOMPU; Review PS DOMPU; Periksa realisasi RE–PS dan kendala operasional bersama pengelola wilayah; penyebab belum terkonfirmasi."
+          }
+        ]
+      }
+    }
+  }
+}
